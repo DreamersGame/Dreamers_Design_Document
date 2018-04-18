@@ -1,5 +1,5 @@
 # Game_Design_Document
-Dreamers游戏设计文档集合  
+Dreamers游戏设计文档集合   (Crafter)
 
 ---
 这些设计文档是基于Game_Design_Sheet中的规范进行书写的.  
