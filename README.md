@@ -13,7 +13,7 @@ Dreamers游戏设计文档集合   (Crafter)
 	- [x] 终稿上架
 - [ ] 游戏剧情细化(In Progress)
 	- [x] 分割章节(Pending for evaluation)
-	- [ ] 章节详细填补(In Progress)
+	- [ ] 章节详细填补
 	- [ ] 初稿审核
 	- [ ] 初稿修改
 	- [ ] 终稿审核
