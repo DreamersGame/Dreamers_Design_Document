@@ -1,27 +1,27 @@
 # Game_Design_Document
-Dreamers游戏设计文档集合   (Crafter)
+*Dreamers* Game Design Documents (Crafter)
 
 ---
-这些设计文档是基于Game_Design_Sheet中的规范进行书写的.  
+Those documents are based on the standards given by Game_Design_Sheet.  
 
 ---
-## 项目流程
-- [x] 游戏策划文档
-	- [x] 初稿审核
-	- [x] 初稿更改
-	- [x] 终稿审核
-	- [x] 终稿上架
-- [ ] 游戏剧情细化(In Progress)
-	- [x] 分割章节(Pending for evaluation)
-	- [ ] 章节详细填补
-	- [ ] 初稿审核
-	- [ ] 初稿修改
-	- [ ] 终稿审核
-- [ ] 游戏交互草图
-- [ ] 游戏程序
-- [ ] 内部测试
+## Project Workflow
+- [x] Game Design Document
+	- [x] First Revision Evaluation
+	- [x] Edit First Revision
+	- [x] Final Edition Revision
+	- [x] Edit Final Revision & Publish Final Revision
+- [ ] Give Game Story Detail(In Progress)
+	- [x] Divide Chapters (Pending for evaluation)
+	- [ ] Chapter Story Detail
+	- [ ] First Draft Revision
+	- [ ] Edit First Draft
+	- [ ] Final Draft Revision
+- [ ] Game Interaction Draft
+- [ ] Implemention Part
+- [ ] Inner Test
 
 ---
-## 项目导览
-- 游戏策划
-    - [游戏策划大纲](/游戏策划/Dreamers游戏策划大纲.md)
+## Project Overview
+- Game Design
+    - [Game Design Outline](/Design/DreamersGameDesignOutline.md)
