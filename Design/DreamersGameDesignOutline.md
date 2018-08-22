@@ -1,16 +1,23 @@
 # Dreamers Game Design Draft
 ## Story Introduction
-男主是一个患有先天脑瘤的小男孩, 因为一次家人冲突脑瘤破裂, 脑溢血死亡.
+
+男主是一个患有先天脑瘤的小男孩, 因为一次家人冲突脑瘤破裂, 脑溢血死亡.  
+The main character was a little boy with inborn brain tumor. His tumor bursted because of a conflict between his family members. The boy died because the wound on the tumor leaks blood into his brain.  
+
 小男孩见到了死神, 死神非常可怜小男孩, 他说虽然他无法干预现实世界的因果, 却可以帮他编制一个梦, 在梦里小男孩可以完成他最后的愿望. 小男孩说他一直都在与病魔斗争, 没有真正的作为一个正常人生活过, 想体会一下生命的意义.  
+The boy saw the dreaper. The dreaper was really sympathetic for the little boy. Although the dreaper cannot change the dealth of the little boy, the dreaper can make up a dream for the boy, and the little boy can finish his wishes in the dream. The little boy said that he had always been fighting with viruses and have not been lived as a normal human. The little boy wanted to know what is life about.  
 
 死神帮助小男孩成为了死神, 小男孩拥有了帮别人做临死前最后一个梦的能力, 这样他就可以在别人的记忆中穿梭, 帮助他们理解和体会生命中最珍视的东西, 体会不同人眼中生命的意义.  
+The dreaper helped the little boy be a new dreaper and the little boy now owns the ablility to help others that are dead by creating dreams for them. Because of that, the little boy will be able to swim freely in others' memories and help those people recognize the most important things in their life. Other than helping others, the little boy can also be able to recognize meanings of life of different people that he helped.  
 
 但小男孩不理解人的欲望, 只是单纯的帮死者造梦, 完成他们的愿望 —— 直到他遇到他的最后一个任务 —— 在他最后一个任务中, 他体会到了死者心中的爱.  
+But the little boy does not understand the desires of human beings. He just kept creating dreams for the deads and helping them to finish their wishs - until he met his last mission - He felt the love inside the dead in his last mission.   
 
-小男孩在不断完成任务的过程中, 自己回忆中各种各样的爱纷纷涌现在他的眼前 —— 对亲人, 梦想, 生命的热爱. 小男孩终于找到了人生的意义 —— 最纯粹的, 跨越一切的爱 —— 珍惜自己所爱之人在身边的每一秒, 并竭尽所能去爱他们.
+小男孩在不断完成任务的过程中, 自己回忆中各种各样的爱纷纷涌现在他的眼前 —— 对亲人, 梦想, 生命的热爱. 小男孩终于找到了人生的意义 —— 最纯粹的, 跨越一切的爱 —— 珍惜自己所爱之人在身边的每一秒, 并竭尽所能去爱他们.  
+In his way finishing different missions, all kinds of love in his own memories appear in front of him - towards his family members, towards his dreams, towards life. The little boy finally finds the meaning of life - the purist, unconditional love - that is to treature every second you spent with the people you love, and try your best to love them.  
 
-小男孩在体会到死者的缤纷多彩的人生后, 释然了.
-
+小男孩在体会到死者的缤纷多彩的人生后, 释然了.  
+The little boy relieved after feeling the wonderful life of the deads.  
 
 ## Chapter Story Design
  * 第一章: (五星红旗迎风飘扬(???)/ salute) 死神与小男孩一起行动，小男孩遇到了一个人生楷模一样可是中年猝死的商人，帮他制造了一个重返十六岁的梦. 大叔年轻的时候是个popular kid 但同时也是一个校园暴力的施暴者. 被施暴的是一个很聪明但文弱的小男生，他们原先是很好的朋友。大叔顺利高中毕业了，可是被他欺负的人却没有. 被欺负的同学在一次bully中受到伤残，导致终身残疾，没有直接证据证明那时候是大叔干的，但大叔一直因为这件事情很愧疚，之后尝试努力生活去弥补，可总觉得自己无法被原谅。临死的时候想让小男孩帮他造一个梦，回到那个被欺负的男孩死之前的一天，把他救了下来，请求他原谅。中年男人被死神带走的时候问死神，你不会恰好知道那个被我欺负的男孩死前许了什么愿吧？死神说那个男孩选择回到和你刚认识，一起在操场上看书运动的那些日子里. 小男孩表示对大叔和男孩的执念和情感不能理解，大叔跟他讲，你再长大点就会明白了，小鬼。
